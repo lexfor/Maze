@@ -1,0 +1,15 @@
+#out{
+    width: 50em;
+    pointer-events: none;
+}
+#check{
+    color: #fdc60e;
+    font-size: 1em;
+    background-color: #fff;
+    border: 0.1em solid #fdc60e;
+}
+#check:hover{
+    color: #fff;
+    font-size: 1em;
+    background-color: #fdc60e;
+}
